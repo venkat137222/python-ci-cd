@@ -1,28 +1,29 @@
-# 🚀 API Testing CI/CD Pipeline using Jenkins, Docker, and Postman
+# DevOps API Testing Pipeline with Jenkins and Postman
 
-This project demonstrates a simple and powerful CI/CD pipeline that automatically runs **API tests** using **Postman and Newman**, integrated into a Jenkins pipeline running inside a **Docker container**.
+This project demonstrates a simple and cost-free DevOps pipeline using **Jenkins**, **Postman**, and **Docker Compose** to automate API testing. It is ideal for DevOps portfolios and job applications. The entire stack runs locally—no paid cloud services required.
 
-## 🧰 Tech Stack
+## 🚀 Features
 
-- **Jenkins** – Automation server for CI/CD
-- **Docker** – Containerization of Jenkins and API test runner
-- **Postman** – API testing
-- **Newman** – CLI runner for Postman collections
-- **Git** – Version control
+- Automates API tests using Postman Collection Runner via Jenkins
+- Uses Newman CLI to run Postman tests in Jenkins pipelines
+- Runs everything in isolated Docker containers
+- No cloud or paid service dependencies
 
-## 🎯 Features
+## 🛠️ Tech Stack
 
-- Automated API testing pipeline triggered via Jenkins
-- Jenkins containerized using Docker
-- Postman collection and environment run through Newman
-- Easy to deploy and extend for real-world APIs
-- 100% FREE to run locally (no cloud costs)
+- Docker
+- Docker Compose
+- Jenkins
+- Postman
+- Newman CLI
+- Git
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
+```text
+devops-api-testing-pipeline/
 ├── docker-compose.yml
 ├── Jenkinsfile
-├── postman/
-│ ├── sample-collection.json
-│ └── sample-environment.json
-└── README.md
+└── postman/
+    ├── sample-collection.json
+    └── sample-environment.json
