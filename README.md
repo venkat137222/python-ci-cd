@@ -11,12 +11,12 @@ This project demonstrates a simple and cost-free DevOps pipeline using **Jenkins
 
 ## 🛠️ Tech Stack
 
-- 🐳 [Docker](https://www.docker.com/) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-- 🧰 [Docker Compose](https://docs.docker.com/compose/) ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-34495e?logo=docker&logoColor=white&style=flat)
-- ☕ [Jenkins](https://www.jenkins.io/) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
-- 📬 [Postman](https://www.postman.com/) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-- 📦 [Newman CLI](https://www.npmjs.com/package/newman) ![Newman](https://img.shields.io/badge/-Newman-333333?logo=npm&logoColor=white&style=flat)
-- 🧑‍💻 [Git](https://git-scm.com/) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- 🐳 [Docker](https://www.docker.com/) ![Docker]
+- 🧰 [Docker Compose](https://docs.docker.com/compose/) ![Docker Compose]
+- ☕ [Jenkins](https://www.jenkins.io/) ![Jenkins]
+- 📬 [Postman](https://www.postman.com/) ![Postman]
+- 📦 [Newman CLI](https://www.npmjs.com/package/newman) ![Newman]
+- 🧑‍💻 [Git](https://git-scm.com/) ![Git]
 
 ## 📁 Project Structure
 
