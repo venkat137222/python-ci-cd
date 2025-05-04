@@ -11,12 +11,12 @@ This project demonstrates a simple and cost-free DevOps pipeline using **Jenkins
 
 ## 🛠️ Tech Stack
 
-- 🐳 [Docker](https://www.docker.com/) ![Docker]
-- 🧰 [Docker Compose](https://docs.docker.com/compose/) ![Docker Compose]
-- ☕ [Jenkins](https://www.jenkins.io/) ![Jenkins]
-- 📬 [Postman](https://www.postman.com/) ![Postman]
-- 📦 [Newman CLI](https://www.npmjs.com/package/newman) ![Newman]
-- 🧑‍💻 [Git](https://git-scm.com/) ![Git]
+- 🐳 [Docker](https://www.docker.com/)
+- 🧰 [Docker Compose](https://docs.docker.com/compose/)
+- ☕ [Jenkins](https://www.jenkins.io/)
+- 📬 [Postman](https://www.postman.com/)
+- 📦 [Newman CLI](https://www.npmjs.com/package/newman)
+- 🧑‍💻 [Git](https://git-scm.com/)
 
 ## 📁 Project Structure
 
